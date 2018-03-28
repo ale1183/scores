@@ -20,4 +20,4 @@ se describe la funcionalidad del proyecto  en pasos.
 
 ## Diagrama de Flujo
 
-![diagrama de flujo](assets/img/diagrama.png)
+![diagrama de flujo](assets/image/diagrama.png)
